@@ -1,4 +1,4 @@
-# Welcome to HacktoberFest 2020!
+# Welcome to HacktoberFest 2020! amazing
 
 ## Follow these steps to make your first pull request-
 
